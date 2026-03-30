@@ -1,5 +1,9 @@
 # Crop-Recommendation-System
-Fundamentals of AI and ML — Evaluated Course Project
+Fundamentals of AI and ML Project
+
+Name: Mohit Nagar
+
+Reg. no: 25BAI11366
 ## Overview of the Project
 This is a Machine Learning system that predicts the best crop to plant based on soil and environmental data. Using a Random Forest Classification model, the system analyzes 7 key factors: Nitrogen (N), Phosphorus (P), Potassium (K), Temperature, Humidity, Soil pH, and Rainfall. The model learns patterns from agricultural data to help farmers make data-driven decisions, reducing the risk of crop failure and maximizing yield.
 

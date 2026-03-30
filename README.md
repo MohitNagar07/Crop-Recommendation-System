@@ -4,17 +4,17 @@ Fundamentals of AI and ML — Evaluated Course Project
 This is a Machine Learning system that predicts the best crop to plant based on soil and environmental data. Using a Random Forest Classification model, the system analyzes 7 key factors: Nitrogen (N), Phosphorus (P), Potassium (K), Temperature, Humidity, Soil pH, and Rainfall. The model learns patterns from agricultural data to help farmers make data-driven decisions, reducing the risk of crop failure and maximizing yield.
 
 ## Features
-Multi-Factor Analysis: Trains on 7 parameters (N, P, K, Temp, Humidity, pH, Rainfall) to provide accurate results.
+1. Multi-Factor Analysis: Trains on 7 parameters (N, P, K, Temp, Humidity, pH, Rainfall) to provide accurate results.
 
-Real-Time Predictions: Predicts from 22 different crop types (e.g., Rice, Maize, Coffee, Cotton) based on user input.
+2. Real-Time Predictions: Predicts from 22 different crop types (e.g., Rice, Maize, Coffee, Cotton) based on user input.
 
-High Accuracy: Utilizes the Random Forest algorithm to ensure stable and reliable classifications.
+3. High Accuracy: Utilizes the Random Forest algorithm to ensure stable and reliable classifications.
 
-Interactive CLI: Users can manually input their soil details into the terminal to get an instant recommendation.
+4. Interactive CLI: Users can manually input their soil details into the terminal to get an instant recommendation.
 
-Data Persistence: Uses a structured CSV dataset (Crop_recommendation.csv) for training and evaluation.
+5. Data Persistence: Uses a structured CSV dataset (Crop_recommendation.csv) for training and evaluation.
 
-Robust Documentation: Includes a clear folder structure and requirement files for easy deployment.
+6. Robust Documentation: Includes a clear folder structure and requirement files for easy deployment.
 
 ## Technologies/Tools Used
 1. Language: Python 3.8+
